@@ -1,0 +1,1 @@
+A hands-on collection of Deep Learning concepts, algorithms, and practical implementations using Python. This repository documents my learning journey, with a focus on understanding the mathematics behind neural networks and implementing algorithms from scratch.
